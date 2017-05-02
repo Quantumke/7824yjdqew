@@ -1,0 +1,18 @@
+[2016-11-05 14:03:00,832] INFO Closing socket connection to /127.0.0.1. (kafka.network.Processor)
+[2016-11-05 14:03:01,374] INFO Closing socket connection to /127.0.0.1. (kafka.network.Processor)
+[2016-11-05 14:03:01,383] ERROR Closing socket for /127.0.0.1 because of error (kafka.network.Processor)
+kafka.common.KafkaException: Wrong request type 16
+	at kafka.api.RequestKeys$.deserializerForKey(RequestKeys.scala:64)
+	at kafka.network.RequestChannel$Request.<init>(RequestChannel.scala:50)
+	at kafka.network.Processor.read(SocketServer.scala:450)
+	at kafka.network.Processor.run(SocketServer.scala:340)
+	at java.lang.Thread.run(Thread.java:745)
+[2016-11-05 14:07:12,509] INFO Closing socket connection to /127.0.0.1. (kafka.network.Processor)
+[2016-11-05 14:07:12,956] INFO Closing socket connection to /127.0.0.1. (kafka.network.Processor)
+[2016-11-05 14:07:12,963] ERROR Closing socket for /127.0.0.1 because of error (kafka.network.Processor)
+kafka.common.KafkaException: Wrong request type 16
+	at kafka.api.RequestKeys$.deserializerForKey(RequestKeys.scala:64)
+	at kafka.network.RequestChannel$Request.<init>(RequestChannel.scala:50)
+	at kafka.network.Processor.read(SocketServer.scala:450)
+	at kafka.network.Processor.run(SocketServer.scala:340)
+	at java.lang.Thread.run(Thread.java:745)

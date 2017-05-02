@@ -1,0 +1,12 @@
+{ 	
+	"version": "1.0.0",
+	"type": "git",
+	"repository": "https://github.com/CyberTime/api-server.git",
+	"name": "cybercity-sms-server",
+	"description": "API that external libraries use to subscribe, send and receive delivery reports",
+	"author": "Waliaula Makokha",
+	"dependencies": {
+  		"soap" : "0.9.1"
+	},
+	"engine": "node 0.12.4"
+}

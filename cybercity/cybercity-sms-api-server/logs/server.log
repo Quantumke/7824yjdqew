@@ -1,0 +1,48 @@
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:12:44.349Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:12:44.357Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:12:44.357Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:12:44.357Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:12:44.358Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:12:44.358Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:12:44.403Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:12:44.408Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:12:44.408Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:12:44.413Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:12:44.409Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:12:44.409Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:12:44.409Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:12:44.412Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:12:44.413Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:12:44.414Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:12:44.414Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:12:44.416Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:12:44.465Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:12:44.471Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:12:44.471Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:12:44.472Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:12:44.472Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:12:44.473Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:42:53.836Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:42:53.839Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:42:53.838Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:42:53.838Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:42:53.839Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:42:53.839Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:42:53.840Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:42:53.842Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:42:53.842Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:42:53.847Z"}
+{"module":"service","function":"global","level":"info","message":"Creating router...","timestamp":"2016-12-14T15:42:53.839Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:42:53.850Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:42:53.850Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:42:53.850Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:42:53.851Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:42:53.852Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:42:53.842Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:42:53.842Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:42:53.843Z"}
+{"module":"service","function":"global","level":"info","message":"Created router with routes [/user/subscribe/v1.0, /message/send/v1.0, /message/receive/v1.0, /report/deliver/v1.0]","timestamp":"2016-12-14T15:42:53.844Z"}
+{"module":"service","function":"global","level":"info","message":"Creating server...","timestamp":"2016-12-14T15:42:53.844Z"}
+{"module":"service","function":"global","level":"info","message":"Created server","timestamp":"2016-12-14T15:42:53.845Z"}
+{"module":"service","function":"global","level":"info","message":"Starting server...","timestamp":"2016-12-14T15:42:53.846Z"}
+{"module":"service","function":"global","level":"info","message":"Started server listening on port 8000","timestamp":"2016-12-14T15:42:53.847Z"}

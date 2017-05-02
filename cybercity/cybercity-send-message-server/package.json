@@ -1,0 +1,15 @@
+{ 	
+	"version": "1.0.0",
+	"type": "git",
+	"repository": "https://github.com/Cybercity/send-message-server.git",
+	"name": "cybercity-send-message-server",
+	"description": "Retrieves messages from queue and sends them to subscribers ",
+	"author": "Waliaula Makokha",
+	"dependencies": {
+		"winston": "0.7.3",
+		"mongodb" : "2.0.36", 
+		"mongoose" : "4.0.7",
+  		"redis": "0.12.1"
+	},
+	"engine": "node 0.8.11"
+}

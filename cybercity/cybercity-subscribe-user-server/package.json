@@ -1,0 +1,16 @@
+{ 	
+	"version": "1.0.0",
+	"type": "git",
+	"repository": "https://github.com/Cybercity/subscribe-user-server.git",
+	"name": "cybercity-deliver-report-server",
+	"description": "Service that receives and processes subscription and unsubscription messages from PRSP",
+	"author": "Waliaula Makokha",
+	"dependencies": {
+  		"winston": "0.7.3",
+  		"mongodb" : "2.0.36", 
+		"mongoose" : "4.0.7",
+  		"redis": "0.12.1",
+		"node-uuid": "1.4.3"
+	},
+	"engine": "node 0.8.11"
+}

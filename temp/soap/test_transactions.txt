@@ -1,0 +1,8 @@
+Sending request 0
+
+{ RequestTransactionByTimeIntervalResult: 
+   { Message: 'Successfully fetched 2 Transactions Valued at 1000',
+     Status: 0,
+     TotalAmount: '1000',
+     TotalTransactions: 2,
+     Transactions: '[1508000004995£254734687667£200£TEST],[1508000004997£254734687667£800£TRAVEL]' } }

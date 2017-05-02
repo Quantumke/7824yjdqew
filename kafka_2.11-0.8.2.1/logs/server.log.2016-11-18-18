@@ -1,0 +1,3 @@
+[2016-11-18 18:58:00,943] INFO Scheduling log segment 0 for log send_sms-0 for deletion. (kafka.log.Log)
+[2016-11-18 18:59:00,965] INFO Deleting segment 0 from log send_sms-0. (kafka.log.Log)
+[2016-11-18 18:59:00,987] INFO Deleting index /tmp/kafka-logs/send_sms-0/00000000000000000000.index.deleted (kafka.log.OffsetIndex)

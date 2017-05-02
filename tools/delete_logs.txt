@@ -1,0 +1,1094 @@
+
+Scanning /opt/...
+Scanning /opt/kafka_2.11-0.8.2.1/...
+Scanning /opt/kafka_2.11-0.8.2.1/logs/...
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-10-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-28-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-11-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-04-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-04-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-08-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-04-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/state-change.log
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-09-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-08-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-22
+Truncating file /opt/kafka_2.11-0.8.2.1/logs/server.log
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-04-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/log-cleaner.log
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-18-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/state-change.log.2016-11-04-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-07-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-11-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/kafkaServer-gc.log
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-18-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-08-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-04-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-09-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-04-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-25-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-19
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-10
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-09-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-04
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-03
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-04-21
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-11-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-16
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-14-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-05-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-05-05
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-06
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-29-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-12
+Found file /opt/kafka_2.11-0.8.2.1/logs/kafka-request.log
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-10-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-20-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-07-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-22-01
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-08-22
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-09-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-20
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-26-23
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-13-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-16-07
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-27-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-00
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-21-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-19-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-23-17
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-02
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-15-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-28-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/server.log.2016-11-06-13
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-24-11
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-17-18
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-18-08
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-30-14
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-25-15
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-06-09
+Found file /opt/kafka_2.11-0.8.2.1/logs/controller.log.2016-11-12-19
+Scanning /opt/kafka_2.11-0.8.2.1/bin/...
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-console-producer.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-replica-verification.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-console-consumer.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-replay-log-producer.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-server-start.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-topics.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/zookeeper-shell.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-consumer-offset-checker.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/zookeeper-server-stop.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-run-class.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-server-stop.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-consumer-perf-test.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-reassign-partitions.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/zookeeper-server-start.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-producer-perf-test.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-simple-consumer-shell.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-preferred-replica-election.sh
+Found file /opt/kafka_2.11-0.8.2.1/bin/kafka-mirror-maker.sh
+Scanning /opt/kafka_2.11-0.8.2.1/bin/windows/...
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-run-class.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-topics.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-consumer-perf-test.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-console-producer.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-consumer-offset-checker.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-reassign-partitions.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-server-stop.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-preferred-replica-election.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/zookeeper-shell.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-producer-perf-test.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/zookeeper-server-stop.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-simple-consumer-shell.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-mirror-maker.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/zookeeper-server-start.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-console-consumer.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-replay-log-producer.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-server-start.bat
+Found file /opt/kafka_2.11-0.8.2.1/bin/windows/kafka-replica-verification.bat
+Found file /opt/kafka_2.11-0.8.2.1/LICENSE
+Found file /opt/kafka_2.11-0.8.2.1/NOTICE
+Scanning /opt/kafka_2.11-0.8.2.1/libs/...
+Found file /opt/kafka_2.11-0.8.2.1/libs/kafka_2.11-0.8.2.1-sources.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/slf4j-api-1.7.6.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/kafka-clients-0.8.2.1.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/snappy-java-1.1.1.6.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/kafka_2.11-0.8.2.1-javadoc.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/kafka_2.11-0.8.2.1-scaladoc.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/kafka_2.11-0.8.2.1-test.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/metrics-core-2.2.0.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/scala-parser-combinators_2.11-1.0.2.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/kafka_2.11-0.8.2.1.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/slf4j-log4j12-1.6.1.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/scala-library-2.11.5.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/log4j-1.2.16.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/zkclient-0.3.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/lz4-1.2.0.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/zookeeper-3.4.6.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/scala-xml_2.11-1.0.2.jar
+Found file /opt/kafka_2.11-0.8.2.1/libs/jopt-simple-3.2.jar
+Scanning /opt/cybercity/...
+Scanning /opt/cybercity/cybercity-receive-message-server/...
+Scanning /opt/cybercity/cybercity-receive-message-server/logs/...
+Truncating file /opt/cybercity/cybercity-receive-message-server/logs/server.log
+Found file /opt/cybercity/cybercity-receive-message-server/package.json
+Found file /opt/cybercity/cybercity-receive-message-server/README.md
+Found file /opt/cybercity/cybercity-receive-message-server/server.js
+Scanning /opt/cybercity/cybercity-subscribe-user-server/...
+Scanning /opt/cybercity/cybercity-subscribe-user-server/logs/...
+Truncating file /opt/cybercity/cybercity-subscribe-user-server/logs/server.log
+Found file /opt/cybercity/cybercity-subscribe-user-server/package.json
+Found file /opt/cybercity/cybercity-subscribe-user-server/README.md
+Found file /opt/cybercity/cybercity-subscribe-user-server/server.js
+Scanning /opt/cybercity/cybercity-delivery-report-server/...
+Scanning /opt/cybercity/cybercity-delivery-report-server/logs/...
+Truncating file /opt/cybercity/cybercity-delivery-report-server/logs/server.log
+Found file /opt/cybercity/cybercity-delivery-report-server/package.json
+Found file /opt/cybercity/cybercity-delivery-report-server/README.md
+Found file /opt/cybercity/cybercity-delivery-report-server/server.js
+Scanning /opt/cybercity/cybercity-send-message-server/...
+Scanning /opt/cybercity/cybercity-send-message-server/logs/...
+Truncating file /opt/cybercity/cybercity-send-message-server/logs/server.log
+Found file /opt/cybercity/cybercity-send-message-server/package.json
+Found file /opt/cybercity/cybercity-send-message-server/README.md
+Found file /opt/cybercity/cybercity-send-message-server/server.js
+Scanning /opt/cybercity/cybercity-sms-api-server/...
+Scanning /opt/cybercity/cybercity-sms-api-server/logs/...
+Truncating file /opt/cybercity/cybercity-sms-api-server/logs/server.log
+Found file /opt/cybercity/cybercity-sms-api-server/package.json
+Found file /opt/cybercity/cybercity-sms-api-server/README.md
+Found file /opt/cybercity/cybercity-sms-api-server/server.js
+Scanning /opt/cybercity/cybercity-sms-api-server/tools/...
+Found file /opt/cybercity/cybercity-sms-api-server/tools/create_schema.js
+Scanning /opt/temp/...
+Scanning /opt/temp/soap/...
+Found file /opt/temp/soap/app.py
+Found file /opt/temp/soap/package.json
+Found file /opt/temp/soap/certificate.cer
+Found file /opt/temp/soap/app.js
+Found file /opt/temp/soap/test_transactions.txt
+Found file /opt/temp/soap/certificate.pem
+Scanning /opt/mongodb-mms-automation/...
+Scanning /opt/mongodb-mms-automation/bin/...
+Found file /opt/mongodb-mms-automation/bin/mongodb-mms-automation-agent
+Found file /opt/mongodb-mms-automation/bin/mongodb-mms-automation-make-init-scripts
+Scanning /opt/mongodb-mms-automation/versions/...
+Found file /opt/mongodb-mms-automation/versions/mongodb-mms-automation-agent-2.0.12.1238
+Found file /opt/bet-text
+Scanning /opt/betmaster/...
+Found file /opt/betmaster/queue-processor-delivery-report.py
+Found file /opt/betmaster/report-sender.py
+Found file /opt/betmaster/db.sqlite3
+Found file /opt/betmaster/AfricasTalkingGateway.py
+Found file /opt/betmaster/AfricasTalkingGateway.pyc
+Found file /opt/betmaster/queue-processor-predictions.py
+Found file /opt/betmaster/queue-processor-send-sms.py
+Found file /opt/betmaster/geckodriver.log
+Found file /opt/betmaster/queue-processor-subscriptions-send.py
+Scanning /opt/betmaster/sms/...
+Found file /opt/betmaster/sms/__init__.py
+Found file /opt/betmaster/sms/admin.pyc
+Found file /opt/betmaster/sms/views.py
+Found file /opt/betmaster/sms/__init__.pyc
+Found file /opt/betmaster/sms/views.pyc
+Found file /opt/betmaster/sms/models.pyc
+Found file /opt/betmaster/sms/apps.py
+Found file /opt/betmaster/sms/models.py
+Scanning /opt/betmaster/sms/migrations/...
+Found file /opt/betmaster/sms/migrations/0003_auto_20161105_0807.pyc
+Found file /opt/betmaster/sms/migrations/__init__.py
+Found file /opt/betmaster/sms/migrations/0005_auto_20161108_1519.pyc
+Found file /opt/betmaster/sms/migrations/__init__.pyc
+Found file /opt/betmaster/sms/migrations/0003_auto_20161105_0807.py
+Found file /opt/betmaster/sms/migrations/0001_initial.py
+Found file /opt/betmaster/sms/migrations/0006_auto_20161108_1533.py
+Found file /opt/betmaster/sms/migrations/0002_auto_20161104_2047.pyc
+Found file /opt/betmaster/sms/migrations/0005_auto_20161108_1519.py
+Found file /opt/betmaster/sms/migrations/0001_initial.pyc
+Found file /opt/betmaster/sms/migrations/0004_auto_20161105_1240.py
+Found file /opt/betmaster/sms/migrations/0004_auto_20161105_1240.pyc
+Found file /opt/betmaster/sms/migrations/0006_auto_20161108_1533.pyc
+Found file /opt/betmaster/sms/migrations/0002_auto_20161104_2047.py
+Found file /opt/betmaster/sms/tests.py
+Found file /opt/betmaster/sms/admin.py
+Found file /opt/betmaster/manage.py
+Scanning /opt/betmaster/betmaster/...
+Found file /opt/betmaster/betmaster/__init__.py
+Found file /opt/betmaster/betmaster/settings.py
+Found file /opt/betmaster/betmaster/wsgi.py
+Found file /opt/betmaster/betmaster/__init__.pyc
+Found file /opt/betmaster/betmaster/urls.py
+Found file /opt/betmaster/betmaster/wsgi.pyc
+Found file /opt/betmaster/betmaster/settings.pyc
+Found file /opt/betmaster/betmaster/urls.pyc
+Found file /opt/betmaster/load.py
+Scanning /opt/tools/...
+Found file /opt/tools/delete_logs.php
+Found file /opt/tools/delete_logs.txt
+Scanning /opt/pos_api/...
+Scanning /opt/pos_api/images/...
+Found file /opt/pos_api/images/freedigital.jpg
+Found file /opt/pos_api/README.md
+Scanning /opt/pos_api/events/...
+Found file /opt/pos_api/events/__init__.py
+Found file /opt/pos_api/events/admin.pyc
+Found file /opt/pos_api/events/views.py
+Found file /opt/pos_api/events/__init__.pyc
+Found file /opt/pos_api/events/views.pyc
+Found file /opt/pos_api/events/models.pyc
+Found file /opt/pos_api/events/urls.py
+Found file /opt/pos_api/events/apps.py
+Found file /opt/pos_api/events/models.py
+Scanning /opt/pos_api/events/migrations/...
+Found file /opt/pos_api/events/migrations/__init__.py
+Found file /opt/pos_api/events/migrations/0002_auto_20161214_1029.pyc
+Found file /opt/pos_api/events/migrations/__init__.pyc
+Found file /opt/pos_api/events/migrations/0003_auto_20161214_1030.py
+Found file /opt/pos_api/events/migrations/0002_auto_20161214_1029.py
+Found file /opt/pos_api/events/migrations/0003_auto_20161214_1030.pyc
+Found file /opt/pos_api/events/migrations/0001_initial.py
+Found file /opt/pos_api/events/migrations/0001_initial.pyc
+Found file /opt/pos_api/events/tests.py
+Found file /opt/pos_api/events/urls.pyc
+Found file /opt/pos_api/events/admin.py
+Scanning /opt/pos_api/processes/...
+Found file /opt/pos_api/processes/logging_conf.py
+Found file /opt/pos_api/processes/setpin.py
+Found file /opt/pos_api/processes/__init__.py
+Found file /opt/pos_api/processes/events_list.py
+Found file /opt/pos_api/processes/change_password.py
+Found file /opt/pos_api/processes/login.py
+Found file /opt/pos_api/processes/event_update.py
+Found file /opt/pos_api/processes/changepin.py
+Found file /opt/pos_api/processes/verify_account.py
+Found file /opt/pos_api/processes/event_add.py
+Found file /opt/pos_api/processes/event_delete.py
+Found file /opt/pos_api/processes/event_categories_add.py
+Found file /opt/pos_api/processes/register.py
+Scanning /opt/pos_api/.git/...
+Scanning /opt/pos_api/.git/logs/...
+Found file /opt/pos_api/.git/logs/HEAD
+Scanning /opt/pos_api/.git/logs/refs/...
+Scanning /opt/pos_api/.git/logs/refs/remotes/...
+Scanning /opt/pos_api/.git/logs/refs/remotes/origin/...
+Found file /opt/pos_api/.git/logs/refs/remotes/origin/HEAD
+Scanning /opt/pos_api/.git/logs/refs/heads/...
+Found file /opt/pos_api/.git/logs/refs/heads/master
+Scanning /opt/pos_api/.git/hooks/...
+Found file /opt/pos_api/.git/hooks/pre-applypatch.sample
+Found file /opt/pos_api/.git/hooks/prepare-commit-msg.sample
+Found file /opt/pos_api/.git/hooks/update.sample
+Found file /opt/pos_api/.git/hooks/pre-rebase.sample
+Found file /opt/pos_api/.git/hooks/applypatch-msg.sample
+Found file /opt/pos_api/.git/hooks/post-update.sample
+Found file /opt/pos_api/.git/hooks/pre-push.sample
+Found file /opt/pos_api/.git/hooks/pre-commit.sample
+Found file /opt/pos_api/.git/hooks/commit-msg.sample
+Found file /opt/pos_api/.git/HEAD
+Scanning /opt/pos_api/.git/branches/...
+Scanning /opt/pos_api/.git/objects/...
+Scanning /opt/pos_api/.git/objects/bd/...
+Found file /opt/pos_api/.git/objects/bd/a3934079ec61b9f5beeea51a64a08a0fcc428d
+Found file /opt/pos_api/.git/objects/bd/4b2abe9e8520ac85fee31e2fd7ed02997b4eaa
+Scanning /opt/pos_api/.git/objects/56/...
+Found file /opt/pos_api/.git/objects/56/4c67872a73f7daf293c3763bde0b7d58b99e10
+Scanning /opt/pos_api/.git/objects/a8/...
+Found file /opt/pos_api/.git/objects/a8/09148383d791cc50776b2ac28e558e4ee8ef4f
+Scanning /opt/pos_api/.git/objects/22/...
+Found file /opt/pos_api/.git/objects/22/19e1b53957a5afe934becfc3f8448b544fe65f
+Scanning /opt/pos_api/.git/objects/f3/...
+Found file /opt/pos_api/.git/objects/f3/c0598b39c4d1d1373e917f864407973b36f431
+Scanning /opt/pos_api/.git/objects/8f/...
+Found file /opt/pos_api/.git/objects/8f/a0613c6abf4f3200328e03be952d6ce9de3834
+Scanning /opt/pos_api/.git/objects/6a/...
+Found file /opt/pos_api/.git/objects/6a/03a59a134d64014280a6c72631e58e19b1d09f
+Scanning /opt/pos_api/.git/objects/26/...
+Found file /opt/pos_api/.git/objects/26/3473c9fc45254cd29ae9d870de93c20b509199
+Scanning /opt/pos_api/.git/objects/2d/...
+Found file /opt/pos_api/.git/objects/2d/02606e9403860dad7327cd45ac1a1909476fb4
+Scanning /opt/pos_api/.git/objects/24/...
+Found file /opt/pos_api/.git/objects/24/3c4b8c11d0fd9d8b45adfa182f8d41e666c469
+Found file /opt/pos_api/.git/objects/24/8b9e375b0aee0e36fcbd3d1731fb95bd71f4e7
+Scanning /opt/pos_api/.git/objects/pack/...
+Scanning /opt/pos_api/.git/objects/e5/...
+Found file /opt/pos_api/.git/objects/e5/2b516c73a6845956e53824dc5ac02d4ede327d
+Found file /opt/pos_api/.git/objects/e5/3ccf21e18af8b22482d95b344c7e249dfc1e66
+Scanning /opt/pos_api/.git/objects/96/...
+Found file /opt/pos_api/.git/objects/96/cfd6eb2ef30b8ffae785eb29f66f1e01368dfb
+Scanning /opt/pos_api/.git/objects/af/...
+Found file /opt/pos_api/.git/objects/af/e16fd7ba4c2039e5435347bc6ea15851a8bb9e
+Scanning /opt/pos_api/.git/objects/89/...
+Found file /opt/pos_api/.git/objects/89/db5a8af2011215d01274b5023b58fa52f3f2c4
+Scanning /opt/pos_api/.git/objects/79/...
+Found file /opt/pos_api/.git/objects/79/a10c09d3ea117324f604f9a93638eb36e4ac7e
+Scanning /opt/pos_api/.git/objects/e6/...
+Found file /opt/pos_api/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Scanning /opt/pos_api/.git/objects/cd/...
+Found file /opt/pos_api/.git/objects/cd/b0414c24aecd3f9bd7c4ba769841cbc26f5130
+Scanning /opt/pos_api/.git/objects/85/...
+Found file /opt/pos_api/.git/objects/85/0c4009d6f0787cec15a90f702b0e50bba412b9
+Scanning /opt/pos_api/.git/objects/42/...
+Found file /opt/pos_api/.git/objects/42/9d4504d220b91a631aab89c28383e9f7372e25
+Found file /opt/pos_api/.git/objects/42/4e2ffd84826676ce45f50d97ff4b432b93c4a7
+Scanning /opt/pos_api/.git/objects/8c/...
+Found file /opt/pos_api/.git/objects/8c/38f3f3dad51e4585f3984282c2a4bec5349c1e
+Scanning /opt/pos_api/.git/objects/88/...
+Found file /opt/pos_api/.git/objects/88/2ef4409e20e90d0c3f5949704d06590224beec
+Scanning /opt/pos_api/.git/objects/a1/...
+Found file /opt/pos_api/.git/objects/a1/a624f6016d9324bc6a98887e5f82ad7e5f1827
+Found file /opt/pos_api/.git/objects/a1/bae69046fcc9a6c5bdf9fda20deb80cbb104a0
+Found file /opt/pos_api/.git/objects/a1/b993f3f67c5f9beca5ee23e8ed6b4937592317
+Scanning /opt/pos_api/.git/objects/02/...
+Found file /opt/pos_api/.git/objects/02/1ead0c1a11d9e9992f31873396cdf3eb711bcc
+Found file /opt/pos_api/.git/objects/02/41d84f71c5c3a7d95db7eb2de7dce31c47956e
+Scanning /opt/pos_api/.git/objects/86/...
+Found file /opt/pos_api/.git/objects/86/ec631893c334c6c2f949886f9f08c978c1ec34
+Scanning /opt/pos_api/.git/objects/ac/...
+Found file /opt/pos_api/.git/objects/ac/406280aafabfa38b5fc5f2a39845cdacead94e
+Scanning /opt/pos_api/.git/objects/03/...
+Found file /opt/pos_api/.git/objects/03/44807bbe76c5d83d007b0074df26cd8a000bac
+Found file /opt/pos_api/.git/objects/03/3a6778e3b80b68e1d10fac61b6b806a6968ce2
+Scanning /opt/pos_api/.git/objects/7c/...
+Found file /opt/pos_api/.git/objects/7c/e503c2dd97ba78597f6ff6e4393132753573f6
+Scanning /opt/pos_api/.git/objects/5c/...
+Found file /opt/pos_api/.git/objects/5c/3f9225d0543a88e83691cefffc352276aed4ac
+Found file /opt/pos_api/.git/objects/5c/52beed97cdcba987042a86026ea9bb43822b21
+Scanning /opt/pos_api/.git/objects/ef/...
+Found file /opt/pos_api/.git/objects/ef/e3556ccd309266786b24be0eed908e97241bee
+Scanning /opt/pos_api/.git/objects/4e/...
+Found file /opt/pos_api/.git/objects/4e/59581cdd4965c67a99fd1ccb2bff4d4df7884b
+Scanning /opt/pos_api/.git/objects/d5/...
+Found file /opt/pos_api/.git/objects/d5/10743982304df1af603ad285a8cb8308ac074b
+Scanning /opt/pos_api/.git/objects/06/...
+Found file /opt/pos_api/.git/objects/06/6e4d4b9bba625aed0e544d6a98ba3c9e8744f4
+Scanning /opt/pos_api/.git/objects/de/...
+Found file /opt/pos_api/.git/objects/de/123d1ec88070776b0ec2e9c2e19c43448bdafa
+Scanning /opt/pos_api/.git/objects/c3/...
+Found file /opt/pos_api/.git/objects/c3/8b2ae2af3b8adb29039cd8e9e2a26bffbc394d
+Scanning /opt/pos_api/.git/objects/01/...
+Found file /opt/pos_api/.git/objects/01/c81602bf0b331532b4693c49c7ac7e77d1ca60
+Scanning /opt/pos_api/.git/objects/f4/...
+Found file /opt/pos_api/.git/objects/f4/a4b62ab4986265486773075dc12f51b50ff67c
+Scanning /opt/pos_api/.git/objects/47/...
+Found file /opt/pos_api/.git/objects/47/c11ec3f6fb6fab589f7b1d7f3a0498ca57c761
+Scanning /opt/pos_api/.git/objects/91/...
+Found file /opt/pos_api/.git/objects/91/ea44a218fbd2f408430959283f0419c921093e
+Found file /opt/pos_api/.git/objects/91/c5540849b0c4200af4cc24ecd4128e19a0e8d2
+Scanning /opt/pos_api/.git/objects/df/...
+Found file /opt/pos_api/.git/objects/df/ba1f31b7d7cbc5a544e1c4690d16d5a84beac1
+Scanning /opt/pos_api/.git/objects/info/...
+Scanning /opt/pos_api/.git/objects/73/...
+Found file /opt/pos_api/.git/objects/73/c89e9cdb2ad174a03099a319ef0bcba2f4de58
+Scanning /opt/pos_api/.git/objects/49/...
+Found file /opt/pos_api/.git/objects/49/66bcf5e3c66f6f196291da33a5d7a9de0d34cd
+Scanning /opt/pos_api/.git/objects/20/...
+Found file /opt/pos_api/.git/objects/20/c5d68cc8d883afc09cfb48cbb751290e2712d1
+Found file /opt/pos_api/.git/objects/20/fb71207778400f20cadb14d5a2777ffdfe9da2
+Found file /opt/pos_api/.git/objects/20/33f7dfed0970faf56309ef7482a2f72e3e4d01
+Scanning /opt/pos_api/.git/objects/b9/...
+Found file /opt/pos_api/.git/objects/b9/094d62ed27ab89e12a71f760827b473f68e0a1
+Scanning /opt/pos_api/.git/objects/ed/...
+Found file /opt/pos_api/.git/objects/ed/00c884470b175b13c08e431270d07e779a01a4
+Found file /opt/pos_api/.git/objects/ed/0812a7019cbd8ff735d16c4efafad34c5c0a25
+Scanning /opt/pos_api/.git/objects/7a/...
+Found file /opt/pos_api/.git/objects/7a/7834a2f138fccb5786ee407da6d82417020fdb
+Scanning /opt/pos_api/.git/objects/1f/...
+Found file /opt/pos_api/.git/objects/1f/2a96908c9dfb65afac4264dd73c7140cde735e
+Scanning /opt/pos_api/.git/objects/9c/...
+Found file /opt/pos_api/.git/objects/9c/9cf3f66338f01f8500366f7d70f9eb2cbffb49
+Scanning /opt/pos_api/.git/objects/32/...
+Found file /opt/pos_api/.git/objects/32/fb4e03d9debfa6063dc567c49ec841d78ef18a
+Scanning /opt/pos_api/.git/objects/40/...
+Found file /opt/pos_api/.git/objects/40/8ee986a7218b16b9d705222ed49d507e06f474
+Scanning /opt/pos_api/.git/objects/ee/...
+Found file /opt/pos_api/.git/objects/ee/de0931ffbb3e7737d150a8ea2da5585fb4636b
+Scanning /opt/pos_api/.git/objects/81/...
+Found file /opt/pos_api/.git/objects/81/c47e5f095714a8c03276d48301e594b2fb82e3
+Scanning /opt/pos_api/.git/objects/9a/...
+Found file /opt/pos_api/.git/objects/9a/f9fd86e138b39798107ca6b39dda22326a335d
+Scanning /opt/pos_api/.git/objects/44/...
+Found file /opt/pos_api/.git/objects/44/74ed5de9260a6a21fac67c6d0cd92128c767b3
+Scanning /opt/pos_api/.git/objects/9f/...
+Found file /opt/pos_api/.git/objects/9f/f279456ca7d8b2d602f8ff65f8399e485b3fc7
+Scanning /opt/pos_api/.git/objects/b3/...
+Found file /opt/pos_api/.git/objects/b3/0341f34f0eb266107616fcb03d57c1345e6356
+Scanning /opt/pos_api/.git/objects/ba/...
+Found file /opt/pos_api/.git/objects/ba/ce84ebe5f57ea47814a820ef560b0b6699884d
+Scanning /opt/pos_api/.git/objects/19/...
+Found file /opt/pos_api/.git/objects/19/a451d4c69fc340a9ff4017fc64364a4e293290
+Scanning /opt/pos_api/.git/objects/82/...
+Found file /opt/pos_api/.git/objects/82/53be1f6d08e08e7ab8efeefa5fe7b87c504240
+Scanning /opt/pos_api/.git/objects/09/...
+Found file /opt/pos_api/.git/objects/09/e9d3c4015960ad0a6bef84046f902d70d7a01f
+Scanning /opt/pos_api/.git/objects/c4/...
+Found file /opt/pos_api/.git/objects/c4/64d8644fe95c5b4475d8cc4645576b94b5137c
+Scanning /opt/pos_api/.git/objects/9d/...
+Found file /opt/pos_api/.git/objects/9d/1dcfdaf1a6857c5f83dc27019c7600e1ffaff8
+Scanning /opt/pos_api/.git/objects/0e/...
+Found file /opt/pos_api/.git/objects/0e/0b8fa3685c30ee3de754d649e2e21877b49bea
+Scanning /opt/pos_api/.git/objects/7d/...
+Found file /opt/pos_api/.git/objects/7d/c3a58f54e97dfa46d9afcc52c93248518686eb
+Scanning /opt/pos_api/.git/objects/f0/...
+Found file /opt/pos_api/.git/objects/f0/3d86a06842d0c7a47da018957775448e9bb2b7
+Scanning /opt/pos_api/.git/objects/cc/...
+Found file /opt/pos_api/.git/objects/cc/b4b75b2b8aeeb0d8e0ab0de91773befb40ffbf
+Scanning /opt/pos_api/.git/objects/a4/...
+Found file /opt/pos_api/.git/objects/a4/e4a14b9ef55f00895db8f7aba131300d681279
+Scanning /opt/pos_api/.git/objects/39/...
+Found file /opt/pos_api/.git/objects/39/f7ec7956ce8966b88417d5bba807c8f0f0578d
+Found file /opt/pos_api/.git/packed-refs
+Found file /opt/pos_api/.git/description
+Scanning /opt/pos_api/.git/info/...
+Found file /opt/pos_api/.git/info/exclude
+Scanning /opt/pos_api/.git/refs/...
+Scanning /opt/pos_api/.git/refs/tags/...
+Scanning /opt/pos_api/.git/refs/remotes/...
+Scanning /opt/pos_api/.git/refs/remotes/origin/...
+Found file /opt/pos_api/.git/refs/remotes/origin/HEAD
+Scanning /opt/pos_api/.git/refs/heads/...
+Found file /opt/pos_api/.git/refs/heads/master
+Found file /opt/pos_api/.git/index
+Found file /opt/pos_api/manage.py
+Scanning /opt/pos_api/accounts/...
+Found file /opt/pos_api/accounts/__init__.py
+Found file /opt/pos_api/accounts/admin.pyc
+Found file /opt/pos_api/accounts/views.py
+Found file /opt/pos_api/accounts/__init__.pyc
+Found file /opt/pos_api/accounts/views.pyc
+Found file /opt/pos_api/accounts/models.pyc
+Found file /opt/pos_api/accounts/urls.py
+Found file /opt/pos_api/accounts/apps.py
+Found file /opt/pos_api/accounts/models.py
+Scanning /opt/pos_api/accounts/migrations/...
+Found file /opt/pos_api/accounts/migrations/__init__.py
+Found file /opt/pos_api/accounts/migrations/0003_profile_pin.py
+Found file /opt/pos_api/accounts/migrations/0002_profile_verfication_code.pyc
+Found file /opt/pos_api/accounts/migrations/0011_auto_20161214_0719.py
+Found file /opt/pos_api/accounts/migrations/0010_auto_20161214_0628.py
+Found file /opt/pos_api/accounts/migrations/0011_auto_20161214_0719.pyc
+Found file /opt/pos_api/accounts/migrations/0008_auto_20161213_1818.pyc
+Found file /opt/pos_api/accounts/migrations/__init__.pyc
+Found file /opt/pos_api/accounts/migrations/0007_auto_20161213_1811.pyc
+Found file /opt/pos_api/accounts/migrations/0004_auto_20161213_1736.py
+Found file /opt/pos_api/accounts/migrations/0012_auto_20161214_0838.py
+Found file /opt/pos_api/accounts/migrations/0007_auto_20161213_1811.py
+Found file /opt/pos_api/accounts/migrations/0012_auto_20161214_0838.pyc
+Found file /opt/pos_api/accounts/migrations/0006_auto_20161213_1738.py
+Found file /opt/pos_api/accounts/migrations/0010_auto_20161214_0628.pyc
+Found file /opt/pos_api/accounts/migrations/0001_initial.py
+Found file /opt/pos_api/accounts/migrations/0009_auto_20161213_1823.py
+Found file /opt/pos_api/accounts/migrations/0005_auto_20161213_1737.py
+Found file /opt/pos_api/accounts/migrations/0006_auto_20161213_1738.pyc
+Found file /opt/pos_api/accounts/migrations/0002_profile_verfication_code.py
+Found file /opt/pos_api/accounts/migrations/0001_initial.pyc
+Found file /opt/pos_api/accounts/migrations/0003_profile_pin.pyc
+Found file /opt/pos_api/accounts/migrations/0005_auto_20161213_1737.pyc
+Found file /opt/pos_api/accounts/migrations/0004_auto_20161213_1736.pyc
+Found file /opt/pos_api/accounts/migrations/0009_auto_20161213_1823.pyc
+Found file /opt/pos_api/accounts/migrations/0008_auto_20161213_1818.py
+Found file /opt/pos_api/accounts/tests.py
+Found file /opt/pos_api/accounts/urls.pyc
+Found file /opt/pos_api/accounts/admin.py
+Scanning /opt/pos_api/pos_api/...
+Found file /opt/pos_api/pos_api/__init__.py
+Found file /opt/pos_api/pos_api/settings.py
+Found file /opt/pos_api/pos_api/wsgi.py
+Found file /opt/pos_api/pos_api/__init__.pyc
+Found file /opt/pos_api/pos_api/urls.py
+Found file /opt/pos_api/pos_api/wsgi.pyc
+Found file /opt/pos_api/pos_api/settings.pyc
+Found file /opt/pos_api/pos_api/urls.pyc
